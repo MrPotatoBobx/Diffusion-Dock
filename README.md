@@ -19,7 +19,7 @@ Diffusion dock is the dock for the Linux distro, Diffusion Linux.
    
    After we have cloned the dock we will change our directory in to it via `cd Diffusion-Dock`
    
-   To install the dependencies we have to run `sudo apt install python3-pip pkg-config libcairo2-dev libglib2.0-dev libgirepository1.0-dev && pip install -r requirements.txt`
+   To install the dependencies we have to run `sudo apt install python3-pip pkg-config libcairo2-dev libglib2.0-dev libgirepository1.0-dev && pip3 install -r requirements.txt`
    
    Then you can run the dock by running `python3 app.py`
    
